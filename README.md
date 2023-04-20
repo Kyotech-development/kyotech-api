@@ -1,3 +1,3 @@
 # kyotech-api
 
-👾 Repositório para armazenar todos os componentes referentes a aplicação Frontend do projeto
+👾 Repositório para armazenar todos os componentes referentes a aplicação Backend do projeto
